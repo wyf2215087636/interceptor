@@ -3,7 +3,7 @@
 
 MyBatis is a work need to generate SQL pages for an optimization, their own written extension widgets, compatible with MyBatis. I used version 3.5.6.
 
-`select tableField from tableName limit 1000000,10; 耗时：6.6秒` \n
+`select tableField from tableName limit 1000000,10; 耗时：6.6秒`  
 `select tableField from tableName where id > 1000000,10; 耗时:0.6秒`
 
 使用方法：
