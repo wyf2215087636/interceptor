@@ -6,7 +6,7 @@ MyBatis is a work need to generate SQL pages for an optimization, their own writ
 使用方法：
 ```java
 @Bean
-	public DataScopeInterceptor dataScopeInterceptor() {
-		return new DataScopeInterceptor();
-	}
+public DataScopeInterceptor dataScopeInterceptor() {
+	return new DataScopeInterceptor();
+}
 ```
