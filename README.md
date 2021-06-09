@@ -13,3 +13,7 @@ public DataScopeInterceptor dataScopeInterceptor() {
 	return new DataScopeInterceptor();
 }
 ```
+
+------
+2021-06-09
+新增 纸张自动排版实现
